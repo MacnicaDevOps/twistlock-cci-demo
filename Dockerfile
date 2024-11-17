@@ -1,4 +1,4 @@
-From ubuntu:14.04
+From ubuntu:trusty-20190425
 #RUN apt-get update && apt-get install -y ssh
 #ENV PASSWORD = secret
 #RUN ssh-keygen -q -t rsa -N '' -f /root/.ssh/id_rsa
